@@ -1,0 +1,36 @@
+{
+  "name": "nodejslab03-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node app"
+  },
+  "dependencies": {
+    "@types/express": "^4.16.1",
+    "@types/mysql": "^2.15.6",
+    "@types/node": "^12.0.2",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.16.4",
+    "express-route-validator": "^0.2.5",
+    "express-validator": "^5.3.1",
+    "http-errors": "~1.6.3",
+    "moment": "^2.24.0",
+    "morgan": "~1.9.1",
+    "mysql": "^2.17.1",
+    "pug": "2.0.0-beta11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archibald2406/NodeJsLab03-SQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archibald2406/NodeJsLab03-SQL/issues"
+  },
+  "homepage": "https://github.com/archibald2406/NodeJsLab03-SQL#readme"
+}
